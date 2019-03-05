@@ -1,6 +1,6 @@
 # Website Checker
 
-Java application for checking periodically a website status across different TLD through a CI server. In detail, the checks performed are:
+Java application for checking a website status across different TLD through a CI server with a periodic build. In detail, the checks performed are:
 
 - connection to the website expecting a response with HTTP code 200
 - page title matching the expected title
