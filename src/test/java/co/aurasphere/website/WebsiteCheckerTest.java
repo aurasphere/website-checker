@@ -58,7 +58,7 @@ public class WebsiteCheckerTest {
 	/**
 	 * ID of an element present on the website to check.
 	 */
-	private final static String ELEMENT_ID_TO_CHECK = "hpLogo";
+	private final static String ELEMENT_ID_TO_CHECK = "hplogo";
 
 	/**
 	 * Checks that {@value #IT_WEBSITE_URL} is working properly.
