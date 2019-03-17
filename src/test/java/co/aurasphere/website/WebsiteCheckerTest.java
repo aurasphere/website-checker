@@ -33,7 +33,7 @@ import org.junit.Test;
 
 /**
  * Test class which checks that a website is currently up and working properly
- * for each of its TLD .
+ * for each of its TLD.
  * 
  * @author Donato Rimenti
  *
