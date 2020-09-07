@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 # Website Checker
 
 Java application for checking a website status across different TLD through a CI server with a periodic build. In detail, the checks performed are:
